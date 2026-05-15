@@ -5,7 +5,7 @@
 Bienvenue sur mon portfolio.
 
 ## Carte mentale du portfolio
-Cette [carte mentale](https://github.com/FrancoisDuez355/FD/blob/main/Portfolio_mindMap.pdf) présente l’organisation globale du portfolio, les compétences mobilisées, les projets réalisés ainsi que les principaux livrables associés au cahier des charges Aéroworld.
+Cette [carte mentale](Portfolio_mindMap.pdf) présente l’organisation globale du portfolio, les compétences mobilisées, les projets réalisés ainsi que les principaux livrables associés au cahier des charges Aéroworld.
 
 ## Parcours
 Ancien actuaire, j’ai choisi de me réorienter vers la Business Intelligence afin de retrouver un environnement centré sur l’analyse, la compréhension métier et l’aide à la décision.
@@ -44,8 +44,8 @@ Dashboard Power BI
 
 #### Projet 2 : réaliser une analyse de données en Python
 Analyse des prix de l'immobilier parisien et de leur évolution entre 2017 et 2021 
-![Evolution des prix des appartements et locaux commerciaux](https://github.com/FrancoisDuez355/FD/blob/main/EvolutionPrix_Graphique.jpg)
-[Analyse Python](https://github.com/FrancoisDuez355/FD/blob/main/Duez_Fran%C3%A7ois_1_Notebook_022026.ipynb)
+![Evolution des prix des appartements et locaux commerciaux](EvolutionPrix_Graphique.jpg)
+[Analyse Python](Duez_Fran%C3%A7ois_1_Notebook_022026.ipynb)
 
 #### Projet 3 : analyser une demande business et identifiez les segments du marché les plus pertinents pour votre client*
 *Analyser les données d'un segment clientèle ou produits pour accompagner les décideurs
@@ -53,7 +53,7 @@ Analyser les évolutions du marché pour repérer des segments pertinents
 Cadrer les contours de la demande en BI en identifiant besoins, contraintes et exigences
 Participer à l'élaboration des recommandations business en prenant en compte les besoins*
 
-[Analyse business & segmentation](https://github.com/FrancoisDuez355/FD/blob/main/Duez_Fran%C3%A7ois_1_Pr%C3%A9sentation_042026.pptx)
+[Analyse business & segmentation](Duez_Fran%C3%A7ois_1_Pr%C3%A9sentation_042026.pptx)
 
 ## Contact
 - LinkedIn
