@@ -4,6 +4,8 @@
 
 Bienvenue sur mon portfolio.
 
+## [Carte mentale](https://github.com/FrancoisDuez355/FD/blob/main/Portfolio_mindMap.png)
+
 ## Projets principaux
 - Dashboard Power BI
 - [Analyse Python](https://github.com/FrancoisDuez355/FD/blob/main/Duez_Fran%C3%A7ois_1_Notebook_022026.ipynb)
