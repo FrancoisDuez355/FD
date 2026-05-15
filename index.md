@@ -37,6 +37,7 @@ Cette démarche s’inscrit dans une logique de conseil où l’objectif n’est
 #### Projet 1 : créer un tableau de bord dynamique avec PowerBI pour visualiser l'avancement de projets
 
 **Compétences mobilisées**
+
 *Créer un tableau de bord interactif pour rendre la visualisation disponible et accessible*
 
 *Optimiser une solution de visualisation accessible, adaptée au public et au type de donnée*
@@ -51,6 +52,7 @@ Dashboard Power BI
 **Analyse des prix de l'immobilier parisien et de leur évolution entre 2017 et 2021** 
 
 **Compétences mobilisées**
+
 *Analyse exploratoire*
 
 *Corrélations*
