@@ -8,7 +8,7 @@ Bienvenue sur mon portfolio.
 Cette [carte mentale](Portfolio_mindMap.pdf) présente l’organisation globale du portfolio, les compétences mobilisées, les projets réalisés ainsi que les principaux livrables associés au cahier des charges Aéroworld.
 
 ## Parcours
-Ancien actuaire, j’ai choisi de me réorienter vers la Business Intelligence afin de retrouver un environnement centré sur l’analyse, la compréhension métier et l’aide à la décision.
+Ancien actuaire et professeur de mathématiques, j’ai choisi de me réorienter vers la Business Intelligence afin de retrouver un environnement centré sur l’analyse, la compréhension métier et l’aide à la décision.
 
 Au cours de ma formation OpenClassrooms BI Analyst, j’ai développé des compétences en visualisation de données, modélisation, analyse prédictive, reporting et gestion de projet data à travers plusieurs cas concrets mêlant problématiques techniques et enjeux business.
 
