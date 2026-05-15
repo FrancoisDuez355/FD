@@ -38,8 +38,11 @@ Cette démarche s’inscrit dans une logique de conseil où l’objectif n’est
 
 **Compétences mobilisées**
 *Créer un tableau de bord interactif pour rendre la visualisation disponible et accessible*
+
 *Optimiser une solution de visualisation accessible, adaptée au public et au type de donnée*
+
 *Produire un reporting en analysant les visualisations pour faciliter les décisions*
+
 *Proposer un récit des résultats avec des procédés narratifs pour dynamiser la présentation*
 
 Dashboard Power BI
@@ -49,8 +52,11 @@ Dashboard Power BI
 
 **Compétences mobilisées**
 *Analyse exploratoire*
+
 *Corrélations*
+
 *Régression prédictive*
+
 *Machine Learning*
 
 ![Evolution des prix des appartements et locaux commerciaux](EvolutionPrix_Graphique.jpg)
