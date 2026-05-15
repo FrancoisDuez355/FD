@@ -18,18 +18,18 @@ Je souhaite évoluer vers un rôle de consultant BI polyvalent capable :
 - d’analyser une problématique métier
 - de structurer les besoins
 - de transformer des données complexes en informations exploitables
-- d’accompagner les utilisateurs dans la prise en main des outils décisionnels.
+- d’accompagner les utilisateurs dans la prise en main des outils décisionnels
 
 Ce portfolio présente plusieurs projets réalisés durant ma formation ainsi qu’une réflexion sur les compétences techniques, méthodologiques et humaines mobilisées dans un contexte de projet data.
 
 Au-delà des compétences techniques, j’accorde une importance particulière à la compréhension des besoins métiers et à la capacité de proposer des solutions adaptées aux utilisateurs et aux enjeux de l’entreprise.
 
 Mes projets ont été construits avec une approche orientée décision :
-- identification des problématiques ;
-- structuration des données ;
-- choix des indicateurs pertinents ;
-- restitution claire des résultats ;
-- accompagnement utilisateur et documentation.
+- identification des problématiques
+- structuration des données
+- choix des indicateurs pertinents
+- restitution claire des résultats
+- accompagnement utilisateur et documentation
 
 Cette démarche s’inscrit dans une logique de conseil où l’objectif n’est pas uniquement de produire des visualisations ou des analyses, mais de fournir des outils réellement exploitables pour la prise de décision.
 
@@ -42,9 +42,9 @@ Proposer un récit des résultats avec des procédés narratifs pour dynamiser l
 
 Dashboard Power BI
 
-#### Projet 2 : réaliser une analyse de données en Python*
+#### Projet 2 : réaliser une analyse de données en Python
 Analyse des prix de l'immobilier parisien et de leur évolution entre 2017 et 2021 
-![Evolution des prix des appartements et locaux commerciaux](https://github.com/FrancoisDuez355/FD/blob/main/EvolutionPrix_Graphique.jpg)
+![Evolution des prix des appartements et locaux commerciaux] (https://github.com/FrancoisDuez355/FD/blob/main/EvolutionPrix_Graphique.jpg)
 [Analyse Python](https://github.com/FrancoisDuez355/FD/blob/main/Duez_Fran%C3%A7ois_1_Notebook_022026.ipynb)
 
 #### Projet 3 : analyser une demande business et identifiez les segments du marché les plus pertinents pour votre client*
