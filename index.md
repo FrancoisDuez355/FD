@@ -35,6 +35,8 @@ Cette démarche s’inscrit dans une logique de conseil où l’objectif n’est
 
 ## Projets principaux
 #### Projet 1 : créer un tableau de bord dynamique avec PowerBI pour visualiser l'avancement de projets
+
+**Compétences mobilisées**
 *Créer un tableau de bord interactif pour rendre la visualisation disponible et accessible
 Optimiser une solution de visualisation accessible, adaptée au public et au type de donnée
 Produire un reporting en analysant les visualisations pour faciliter les décisions
@@ -43,11 +45,21 @@ Proposer un récit des résultats avec des procédés narratifs pour dynamiser l
 Dashboard Power BI
 
 #### Projet 2 : réaliser une analyse de données en Python
-Analyse des prix de l'immobilier parisien et de leur évolution entre 2017 et 2021 
+**Analyse des prix de l'immobilier parisien et de leur évolution entre 2017 et 2021** 
+
+**Compétences mobilisées**
+*Analyse exploratoire
+Corrélations
+Régression prédictive
+Machine Learning*
+
 ![Evolution des prix des appartements et locaux commerciaux](EvolutionPrix_Graphique.jpg)
-[Analyse Python](Duez_Fran%C3%A7ois_1_Notebook_022026.ipynb)
+
+[Voir le notebook Python](Duez_Fran%C3%A7ois_1_Notebook_022026.ipynb)
 
 #### Projet 3 : analyser une demande business et identifiez les segments du marché les plus pertinents pour votre client*
+
+**Compétences mobilisées**
 *Analyser les données d'un segment clientèle ou produits pour accompagner les décideurs
 Analyser les évolutions du marché pour repérer des segments pertinents
 Cadrer les contours de la demande en BI en identifiant besoins, contraintes et exigences
