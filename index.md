@@ -15,10 +15,10 @@ Au cours de ma formation OpenClassrooms BI Analyst, j’ai développé des comp�
 Mon parcours m’a également permis de développer une forte capacité d’adaptation et de vulgarisation grâce à des expériences variées, notamment dans l’enseignement. Cette approche me permet aujourd’hui de faire le lien entre besoins métiers, contraintes techniques et compréhension utilisateur.
 
 Je souhaite évoluer vers un rôle de consultant BI polyvalent capable :
-- d’analyser une problématique métier ;
-- de structurer les besoins ;
-- de transformer des données complexes en informations exploitables ;
-- et d’accompagner les utilisateurs dans la prise en main des outils décisionnels.
+- d’analyser une problématique métier
+- de structurer les besoins
+- de transformer des données complexes en informations exploitables
+- d’accompagner les utilisateurs dans la prise en main des outils décisionnels.
 
 Ce portfolio présente plusieurs projets réalisés durant ma formation ainsi qu’une réflexion sur les compétences techniques, méthodologiques et humaines mobilisées dans un contexte de projet data.
 
@@ -34,9 +34,26 @@ Mes projets ont été construits avec une approche orientée décision :
 Cette démarche s’inscrit dans une logique de conseil où l’objectif n’est pas uniquement de produire des visualisations ou des analyses, mais de fournir des outils réellement exploitables pour la prise de décision.
 
 ## Projets principaux
-- Dashboard Power BI
-- [Analyse Python](https://github.com/FrancoisDuez355/FD/blob/main/Duez_Fran%C3%A7ois_1_Notebook_022026.ipynb)
-- [Analyse business & segmentation](https://github.com/FrancoisDuez355/FD/blob/main/Duez_Fran%C3%A7ois_1_Pr%C3%A9sentation_042026.pptx)
+#### Projet 1 : créer un tableau de bord dynamique avec PowerBI pour visualiser l'avancement de projets
+*Créer un tableau de bord interactif pour rendre la visualisation disponible et accessible
+Optimiser une solution de visualisation accessible, adaptée au public et au type de donnée
+Produire un reporting en analysant les visualisations pour faciliter les décisions
+Proposer un récit des résultats avec des procédés narratifs pour dynamiser la présentation*
+
+Dashboard Power BI
+
+#### Projet 2 : réaliser une analyse de données en Python*
+Analyse des prix de l'immobilier parisien et de leur évolution entre 2017 et 2021 
+![Evolution des prix des appartements et locaux commerciaux](https://github.com/FrancoisDuez355/FD/blob/main/EvolutionPrix_Graphique.jpg)
+[Analyse Python](https://github.com/FrancoisDuez355/FD/blob/main/Duez_Fran%C3%A7ois_1_Notebook_022026.ipynb)
+
+#### Projet 3 : analyser une demande business et identifiez les segments du marché les plus pertinents pour votre client*
+*Analyser les données d'un segment clientèle ou produits pour accompagner les décideurs
+Analyser les évolutions du marché pour repérer des segments pertinents
+Cadrer les contours de la demande en BI en identifiant besoins, contraintes et exigences
+Participer à l'élaboration des recommandations business en prenant en compte les besoins*
+
+[Analyse business & segmentation](https://github.com/FrancoisDuez355/FD/blob/main/Duez_Fran%C3%A7ois_1_Pr%C3%A9sentation_042026.pptx)
 
 ## Contact
 - LinkedIn
