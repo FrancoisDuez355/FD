@@ -44,7 +44,7 @@ Dashboard Power BI
 
 #### Projet 2 : réaliser une analyse de données en Python
 Analyse des prix de l'immobilier parisien et de leur évolution entre 2017 et 2021 
-![Evolution des prix des appartements et locaux commerciaux] (https://github.com/FrancoisDuez355/FD/blob/main/EvolutionPrix_Graphique.jpg)
+![Evolution des prix des appartements et locaux commerciaux](https://github.com/FrancoisDuez355/FD/blob/main/EvolutionPrix_Graphique.jpg)
 [Analyse Python](https://github.com/FrancoisDuez355/FD/blob/main/Duez_Fran%C3%A7ois_1_Notebook_022026.ipynb)
 
 #### Projet 3 : analyser une demande business et identifiez les segments du marché les plus pertinents pour votre client*
