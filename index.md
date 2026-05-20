@@ -64,6 +64,7 @@ Dashboard Power BI
 ![Evolution des prix des appartements et locaux commerciaux](EvolutionPrix_Graphique.jpg)
 <p align="center">
   Evolution des prix des appartements et locaux commerciaux
+  
   <img src="EvolutionPrix_Graphique.jpg" width="400">
 </p>
 
