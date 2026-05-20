@@ -61,7 +61,6 @@ Dashboard Power BI
 
 *Machine Learning*
 
-![Evolution des prix des appartements et locaux commerciaux](EvolutionPrix_Graphique.jpg)
 <p align="center">
   <strong>Evolution des prix des appartements et locaux commerciaux</strong>
   <br>
