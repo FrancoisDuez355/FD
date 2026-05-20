@@ -68,7 +68,7 @@ Dashboard Power BI
 </p>
 
 <p align="center">
-  <strong>[Accéder au notebook Python complet](Duez_François_1_Notebook_022026.ipynb)</strong>
+  <strong><link = Duez_François_1_Notebook_022026.ipynb></strong>
 </p>
 
 
