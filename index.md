@@ -62,6 +62,9 @@ Dashboard Power BI
 *Machine Learning*
 
 ![Evolution des prix des appartements et locaux commerciaux](EvolutionPrix_Graphique.jpg)
+<p align="center">
+  <img src="EvolutionPrix_Graphique.jpg" width="700">
+</p>
 
 [Voir le notebook Python](Duez_Fran%C3%A7ois_1_Notebook_022026.ipynb)
 
