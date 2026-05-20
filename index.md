@@ -65,7 +65,9 @@ Dashboard Power BI
   <strong>Evolution des prix des appartements et locaux commerciaux</strong>
   <br>
   <img src="EvolutionPrix_Graphique.jpg" width="400">
+</p>
 
+<p align="center">
   [<strong>Accéder au notebook Python complet</strong>](Duez_Fran%C3%A7ois_1_Notebook_022026.ipynb)
 </p>
 
