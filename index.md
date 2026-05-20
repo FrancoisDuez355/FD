@@ -68,7 +68,11 @@ Dashboard Power BI
 </p>
 
 <p align="center">
-  <strong><link = Duez_François_1_Notebook_022026.ipynb></strong>
+  🔗 <a href="Duez_François_1_Notebook_022026.ipynb">
+    <strong>  
+    Voir l'analyse Python complète
+    </strong>
+  </a>
 </p>
 
 
