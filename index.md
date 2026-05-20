@@ -65,9 +65,10 @@ Dashboard Power BI
   <strong>Evolution des prix des appartements et locaux commerciaux</strong>
   <br>
   <img src="EvolutionPrix_Graphique.jpg" width="400">
+
+  [<strong>Accéder au notebook Python complet</strong>](Duez_Fran%C3%A7ois_1_Notebook_022026.ipynb)
 </p>
 
-[Voir le notebook Python](Duez_Fran%C3%A7ois_1_Notebook_022026.ipynb)
 
 #### Projet 3 : analyser une demande business et identifiez les segments du marché les plus pertinents pour votre client*
 
