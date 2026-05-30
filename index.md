@@ -48,6 +48,23 @@ Cette démarche s’inscrit dans une logique de conseil où l’objectif n’est
   </a>
 </p>
 
+## Documentation : création de graphiques en Power BI
+Le guide PDF sur la théorie de création de graphiques et la vidéo Loom sur la partie pratique ont été conçus pour faciliter la compréhension des outils et des bonnes pratiques de visualisation.
+<p align="center">
+  🔗 <a href="GuideFormation_PowerBI_Aeroworld.pdf">
+    <strong>  
+    Lire le guide de formation PDF
+    </strong>
+  </a>
+</p>
+<p align="center">
+  🔗 <a href="https://www.loom.com/share/d8f40e9cc15142149f19e87fad4cec69">
+    <strong>  
+    Voir la vidéo
+    </strong>
+  </a>
+</p>
+
 ## Projets principaux
 #### Projet 1 : créer un tableau de bord dynamique avec PowerBI pour visualiser l'avancement de projets
 
@@ -96,16 +113,24 @@ Cette démarche s’inscrit dans une logique de conseil où l’objectif n’est
   </a>
 </p>
 
-
 #### Projet 3 : analyser une demande business et identifiez les segments du marché les plus pertinents pour votre client*
 
 **Compétences mobilisées**
-*Analyser les données d'un segment clientèle ou produits pour accompagner les décideurs
-Analyser les évolutions du marché pour repérer des segments pertinents
-Cadrer les contours de la demande en BI en identifiant besoins, contraintes et exigences
-Participer à l'élaboration des recommandations business en prenant en compte les besoins*
+*Analyser les données d'un segment clientèle ou produits pour accompagner les décideurs*
 
-[Analyse business & segmentation](Duez_Fran%C3%A7ois_1_Pr%C3%A9sentation_042026.pptx)
+*Analyser les évolutions du marché pour repérer des segments pertinents*
+
+*Cadrer les contours de la demande en BI en identifiant besoins, contraintes et exigences*
+
+*Participer à l'élaboration des recommandations business en prenant en compte les besoins*
+
+<p align="center">
+  🔗 <a href="Duez_François_1_Présentation_042026.pptx">
+    <strong>  
+    Voir l'analyse business & segmentation
+    </strong>
+  </a>
+</p>
 
 ## Contact
 - LinkedIn
