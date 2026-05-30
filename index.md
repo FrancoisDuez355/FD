@@ -33,6 +33,21 @@ Mes projets ont été construits avec une approche orientée décision :
 
 Cette démarche s’inscrit dans une logique de conseil où l’objectif n’est pas uniquement de produire des visualisations ou des analyses, mais de fournir des outils réellement exploitables pour la prise de décision.
 
+<p align="center">
+  🔗 <a href="Dashboard_Profil.pbix">
+    <strong>  
+    Voir le tableau de bord de mon profil
+    </strong>
+  </a>
+</p>
+<p align="center">
+  🔗 <a href="Dashboard_Veille.pbix">
+    <strong>  
+    Voir le tableau de bord de veille
+    </strong>
+  </a>
+</p>
+
 ## Projets principaux
 #### Projet 1 : créer un tableau de bord dynamique avec PowerBI pour visualiser l'avancement de projets
 
@@ -46,7 +61,13 @@ Cette démarche s’inscrit dans une logique de conseil où l’objectif n’est
 
 *Proposer un récit des résultats avec des procédés narratifs pour dynamiser la présentation*
 
-Dashboard Power BI
+<p align="center">
+  🔗 <a href="Duez_François_1_tableau_de_bord_012026.pbx">
+    <strong>  
+    Voir l'avancement de projets sur Power BI
+    </strong>
+  </a>
+</p>
 
 #### Projet 2 : réaliser une analyse de données en Python
 **Analyse des prix de l'immobilier parisien et de leur évolution entre 2017 et 2021** 
