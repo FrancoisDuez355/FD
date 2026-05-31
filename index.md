@@ -47,6 +47,13 @@ Cette démarche s’inscrit dans une logique de conseil où l’objectif n’est
     </strong>
   </a>
 </p>
+<p align="center">
+  🔗 <a href="TimelineProjet_GANTT.pbix">
+    <strong>  
+    Voir la timeline du projet
+    </strong>
+  </a>
+</p>
 
 ## Documentation : création de graphiques en Power BI
 Le guide PDF sur la théorie de création de graphiques et la vidéo Loom sur la partie pratique ont été conçus pour faciliter la compréhension des outils et des bonnes pratiques de visualisation.
