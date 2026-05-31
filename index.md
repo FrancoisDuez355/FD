@@ -116,6 +116,7 @@ Le guide PDF sur la théorie de création de graphiques et la vidéo Loom sur la
 #### Projet 3 : analyser une demande business et identifiez les segments du marché les plus pertinents pour votre client*
 
 **Compétences mobilisées**
+
 *Analyser les données d'un segment clientèle ou produits pour accompagner les décideurs*
 
 *Analyser les évolutions du marché pour repérer des segments pertinents*
@@ -133,5 +134,17 @@ Le guide PDF sur la théorie de création de graphiques et la vidéo Loom sur la
 </p>
 
 ## Contact
-- LinkedIn
-- GitHub
+<p align="center">
+  🔗 <a href=https://linkedin.com/in/françoisduez>
+    <strong>  
+    Ma page LinkedIn
+    </strong>
+  </a>
+</p>
+<p align="center">
+  🔗 <a href=francoisduez355.github.io>
+    <strong>  
+    Mon profil GitHub
+    </strong>
+  </a>
+</p>
